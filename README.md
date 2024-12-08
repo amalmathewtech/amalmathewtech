@@ -4,4 +4,4 @@ __Hi,I'm Amal__
 Hardware + Software = ❤️
 
 73,
-Amal Mathew (amal@tinkererway.com)
+Amal Mathew (amal@tinkererway.dev)
